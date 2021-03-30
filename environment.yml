@@ -31,9 +31,8 @@ dependencies:
   - networkx
   - pandas
   - dash
-  - dash_core_components
-  - dash_html_components
+  - dash-core-components
+  - dash-html-components
   - dash_cytoscape
-  - dash_table
-  - json
-  - jupyter_dash
+  - dash-table
+  - jupyter-dash
