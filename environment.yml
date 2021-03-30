@@ -1,0 +1,39 @@
+name: gmso-viz
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - sympy
+  - unyt >= 2.4
+  - boltons
+  - lxml
+  - pytest
+  - mbuild >= 0.10.6
+  - openbabel >= 3.0
+  - foyer
+  - gmso
+  - gsd >= 2.0
+  - parmed
+  - pytest-cov
+  - codecov
+  - pip
+  - matplotlib
+  - py3Dmol
+  - pydantic
+  - nodejs>=10
+  - jupyterlab
+  - jupyter-offlinenotebook
+  - pocl
+  - matplotlib
+  - ipywidgets
+  - plotly
+  - networkx
+  - pandas
+  - dash
+  - dash_core_components
+  - dash_html_components
+  - dash_cytoscape
+  - dash_table
+  - json
+  - jupyter_dash
