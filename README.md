@@ -10,7 +10,7 @@ For further information visit the `gmso` documentation at https://gmso.mosdef.or
 1. [Plotly_Dash_Demo.ipynb](./notebooks/Plot_Dash_Demo.ipynb): Demos conversion to and visualization of gmso objects.
 2. [demo_utils.py](./notebooks/demo_utils.py): Functions to assist in conversion to plotly dicts.
 
-## Usage
+### Usage
 Clone this repository and create a new conda environment from the file [environment.yml](./environment.yml) and start jupyter.
 
 ```shell script
